@@ -4,6 +4,12 @@ Works very simple - sends messages from txt file to specified whatsapp user by p
 ## Installing:
 ChromeDriver (you can also change to firefox in the source code) suitable for your system and browser version
 ```sh
+git clone https://github.com/TheQmaks/WAFuzzer
+```
+```sh
+cd WAFuzzer
+```
+```sh
 pip install -r requirements.txt
 ```
 
